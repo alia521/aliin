@@ -2,13 +2,13 @@
     "telegram": "",
     "product": [
         {
-            "name": "Produkt 1",
-            "url": "https://url-1/",
-            "value": "YES"
+            "name": " توفر ايس رش",
+            "url": "https://dzrt.com/ar/icy-rush.html",
+            "value": "متوفر"
         },
         {
-            "name": "Produkt 2",
-            "url": "https://url-2/",
+            "name": "اي رش منتهي",
+            "url": "https://dzrt.com/ar/icy-rush.html",
             "value": "NO"
         }
     ]
